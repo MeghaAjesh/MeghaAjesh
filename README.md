@@ -148,13 +148,12 @@ const megha = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
 | Project | Stack | Highlights |
 |--------|-------|------------|
 | [**🔍 DevLens AI**](https://github.com/MeghaAjesh) | Next.js 14 · Supabase · GitHub API · Groq AI · Antigravity · Tailwind CSS | Multiplayer AI code review platform — flags bugs, security issues & improvements in **< 3 seconds**; supports **5+ simultaneous collaborators** via Supabase Realtime |
 | [**📊 DataSense AI**](https://github.com/MeghaAjesh) | Next.js 14 · Groq AI · Recharts · Chart.js · Papaparse · Tailwind CSS | Transforms raw CSV uploads into interactive charts in **2 seconds**; NL query interface handles datasets of **10,000+ rows**; 100% client-side — **zero server data storage** |
-| [**🛍️ Shopify Embedded App**](https://github.com/MeghaAjesh) | MongoDB · Express.js · React.js · Node.js · Shopify API | Production app adopted by live merchants; consolidated **10+ third-party API integrations**; **30% faster page loads**; zero critical post-launch defects across **3+ release milestones** |
-
+| [**🛡️ ResolveHub**](https://github.com/MeghaAjesh/ResolveHub) | Next.js 15 · NestJS · PostgreSQL · Drizzle ORM · Gemini AI · Zustand · TanStack Query v5 · Tailwind CSS v4 | AI-powered issue management platform; Gemini analyzes tickets & generates risk scores + resolution plans; **optimistic UI updates** via TanStack Query v5 for zero-latency discussion threads |
+ 
 </div>
 
 ---
